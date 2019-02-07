@@ -1,0 +1,6 @@
+.root{
+  display: flex;
+  width: 920px;
+  margin: auto;
+  flex-direction: column;
+}
