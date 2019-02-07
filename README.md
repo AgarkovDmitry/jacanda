@@ -1,5 +1,6 @@
-1. initing git repo
-2. setup git ignore file
-3. npm init
-4. install few libs... (express, react, webpack)
-5. add index.html
+1. Setup enviroment (webpack/typescript/server)
+2. implement api for login/signup 
+3. add JWT
+4. setup frontend app
+5. implement store to work with data
+6. implement simple UI without styles
